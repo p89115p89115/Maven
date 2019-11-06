@@ -264,4 +264,7 @@
  
   
 
+  <modules>
+  	<module>Maven-SSM-bean</module>
+  </modules>
 </project>
