@@ -268,5 +268,6 @@
   	<module>Maven-SSM-bean</module>
   	<module>Maven-SSM-mapper</module>
   	<module>Maven-SSM-service</module>
+  	<module>Maven-SSM-controller</module>
   </modules>
 </project>
