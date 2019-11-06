@@ -266,5 +266,6 @@
 
   <modules>
   	<module>Maven-SSM-bean</module>
+  	<module>Maven-SSM-mapper</module>
   </modules>
 </project>
