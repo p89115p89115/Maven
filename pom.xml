@@ -263,7 +263,5 @@
   </build>
  
   
-  <modules>
-  	<module>Maven-SSM-Mapper</module>
-  </modules>
+
 </project>
